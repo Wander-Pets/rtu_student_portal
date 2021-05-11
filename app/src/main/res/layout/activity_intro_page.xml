@@ -7,7 +7,7 @@
     tools:context=".ui.login.intro_page">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/rtuLogo"
         android:layout_width="133dp"
         android:layout_height="133dp"
         android:layout_marginStart="114dp"
@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/rizal_technological_university" />
 
     <EditText
-        android:id="@+id/displayText"
+        android:id="@+id/displayRTU"
         android:layout_width="330dp"
         android:layout_height="29dp"
         android:layout_marginStart="15dp"
@@ -42,7 +42,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/studentPortal"
         android:layout_width="152dp"
         android:layout_height="18dp"
         android:layout_marginStart="152dp"
