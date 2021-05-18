@@ -11,7 +11,7 @@
         android:layout_width="254dp"
         android:layout_height="87dp"
         android:text="Dashboard"
-        android:textSize="50dp"
+        android:textSize="50sp"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
