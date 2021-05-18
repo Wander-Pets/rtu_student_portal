@@ -1,4 +1,4 @@
-package com.example.rtu_student_portal.ui.login;
+package com.example.rtu_student_portal.dashboard_home;
 
 import androidx.appcompat.app.AppCompatActivity;
 
