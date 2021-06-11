@@ -27,8 +27,10 @@
     <string name="textview">TextView</string>
     <string name="button">Button</string>
     <string name="student_number">Student number</string>
+    <string name="submit">SUBMIT</string>
 
     <string-array name="batch">
+        <item>"Choose category"</item>
         <item>"2015"</item>
         <item>"2016"</item>
         <item>"2017"</item>
@@ -38,12 +40,14 @@
         <item>"2021"</item>
     </string-array>
     <string-array name="sclass">
+        <item>"Choose category"</item>
         <item>"CEAT"</item>
         <item>"CBET"</item>
         <item>"IPE"</item>
         <item>"SHS"</item>
     </string-array>
     <string-array name="sprovince">
+        <item>"Choose category"</item>
         <item>"NCR"</item>
         <item>"CAR"</item>
         <item>"Region I"</item>
@@ -58,6 +62,7 @@
         <item>"Region ARMM"</item>
     </string-array>
     <string-array name="sreligion">
+        <item>"Choose category"</item>
         <item>"Catholic"</item>
         <item>"Iglesya Ni Cristo (INC)"</item>
         <item>"Born Again"</item>
