@@ -4,18 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.login.dashboard_home">
+    tools:context=".dashboard_home.dashboard_home">
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="254dp"
         android:layout_height="87dp"
         android:text="Dashboard"
-        android:textSize="50dp"
+        android:textSize="50sp"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/enrollment_registration"
+        android:layout_width="226dp"
+        android:layout_height="76dp"
+        android:text="Click mo 'to bilis"
+        android:onClick="onClick"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.741" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

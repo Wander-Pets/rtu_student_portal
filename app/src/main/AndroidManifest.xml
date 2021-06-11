@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Rtu_student_portal">
-        <activity android:name=".ui.login.student_master_file1"></activity>
-        <activity android:name=".ui.login.dashboard_home" />
+        <activity android:name=".dashboard_home.enrollment_registration" />
+        <activity android:name=".dashboard_home.dashboard_home" />
         <activity android:name=".ui.login.intro_page">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

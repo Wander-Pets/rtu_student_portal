@@ -12,7 +12,6 @@ import androidx.annotation.Nullable;
 import androidx.annotation.StringRes;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Handler;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.KeyEvent;
@@ -25,8 +24,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.rtu_student_portal.R;
-import com.example.rtu_student_portal.ui.login.LoginViewModel;
-import com.example.rtu_student_portal.ui.login.LoginViewModelFactory;
+import com.example.rtu_student_portal.dashboard_home.dashboard_home;
 
 public class LoginActivity extends AppCompatActivity {
 
