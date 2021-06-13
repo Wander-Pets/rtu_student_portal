@@ -11,8 +11,7 @@
     android:layout_marginBottom="30dp"
     android:background="@drawable/border"
     android:orientation="horizontal"
-    android:padding="16dp"
-    >
+    android:padding="16dp">
 
     <ImageView
         android:id="@+id/image"
